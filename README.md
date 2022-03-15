@@ -1,6 +1,12 @@
 # 3D Game
  My attempt to create first 3d game without engine, powered by Pygame
 
+### Control
+- **w, a, s, d** - movement
+- **up arrow, down arrow** - move select menu cursor
+- **enter** - select menu item
+- **left arrow, right arrow, mouse** - move camera
+
 ### Preview
 ![image](https://user-images.githubusercontent.com/83653555/158370293-5d2cf3b8-8c31-4d3d-9c22-03eb0913432a.png)
 ![image](https://user-images.githubusercontent.com/83653555/158370309-36945951-240c-40df-b640-0bd38313bad3.png)
