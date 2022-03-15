@@ -1,2 +1,2 @@
-# python-projects-first3dgame
+# 3D Game
  My attempt to create first 3d game without engine
