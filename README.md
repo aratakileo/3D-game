@@ -1,5 +1,5 @@
 # 3D Game
- My attempt to create first 3d game without engine, powered by Pygame
+3D game without engine, powered by Pygame
 
 ### Control
 - **w, a, s, d** - movement
