@@ -3,10 +3,10 @@
 > [When were last source code changes](#when-were-last-source-code-changes)
 
 ### Control
-- **w, a, s, d** - movement
-- **up arrow, down arrow** - move select menu cursor
-- **enter** - select menu item
-- **left arrow, right arrow, mouse** - move camera
+- `w`, `a`, `s`, `d` - movement
+- `up arrow`, `down arrow` - move select menu cursor
+- `enter` - select menu item
+- `left arrow`, `right arrow`, `mouse` - move camera
 
 ### Preview
 ![image](https://user-images.githubusercontent.com/83653555/158370293-5d2cf3b8-8c31-4d3d-9c22-03eb0913432a.png)
