@@ -1,5 +1,6 @@
 # 3D Game
 3D game without engine, powered by Pygame
+> [When were last source code changes](#when-were-last-source-code-changes)
 
 ### Control
 - **w, a, s, d** - movement
@@ -14,3 +15,6 @@
 
 ### Download
 [Download project's archive (.zip)](https://github.com/TeaCondemns/py-first3dgame/archive/refs/heads/main.zip)
+
+### When were last source code changes
+`14 September 2020`
